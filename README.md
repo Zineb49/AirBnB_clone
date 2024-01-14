@@ -17,7 +17,7 @@
 
 ##  Project Description
 
-Airbnb Clone is the main project of the second trimester at Holberton School. The aim is to develop an entire web application that simulates the behavior of the Airbnb platform. Starting from the console or command interpreter, to manipulate data without a visual interface, like in a Shell (perfect for development and debugging), followed by the construction of a website (the front-end) that shows the final product to everybody: static and dynamic, once it's finished what follows is the connection with the database or files that store data (data = objects). And last but not least, the creation of an API that provides a communication interface between the front-end and your data (retrieve, create, delete, update them).
+Airbnb Clone is the main project of the second trimester at Holberton School.Main aim is development of an entire web application that simulates the behavior of the Airbnb platform. Starting from the console or command interpreter, to manipulate data without a visual interface, like in a Shell (perfect for development and debugging), followed by the construction of a website (the front-end) that shows the final product to everybody: static and dynamic, once it's finished what follows is the connection with the database or files that store data (data = objects). And last but not least, the creation of an API that provides a communication interface between the front-end and your data (retrieve, create, delete, update them).
 
 
 ##  Command Interpreter Description
@@ -93,3 +93,4 @@ Airbnb Clone is the main project of the second trimester at Holberton School. Th
 All the tests should be executed at the root of the project by using the following command:
 
 `python3 -m unittest discover tests`
+thank you.
